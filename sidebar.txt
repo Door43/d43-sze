@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sze:home|Door43 (sze)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sze|d43-sze repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sze/archive/master.zip|d43-sze.zip]]
+
+**Recent Changes**
+{{changes>ns = sze}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sze|Ethnologue data]]
+
